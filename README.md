@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Webpage: https://amas.dev/
+- :heart: Rust
+- :green_heart: Neovim
+- :thumbsup: Go
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=gw31415)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gw31415)
