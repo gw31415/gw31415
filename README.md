@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 - :green_heart: Neovim
 - :thumbsup: Go
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=gw31415)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=gw31415&count_private=true&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gw31415)
+![](https://github-profile-trophy.vercel.app/?username=gw31415)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gw31415)
