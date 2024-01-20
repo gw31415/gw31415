@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Webpage: https://amas.dev/
+- Website: https://amas.dev/
 - :heart: Rust
 - :green_heart: Neovim
 - :thumbsup: Go
