@@ -8,14 +8,14 @@
   <a href="https://github.com/gw31415">
     <img height="20" src="https://img.shields.io/github/followers/gw31415?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://zenn.dev/gw31415">
+    <img height="20" src="https://badgen.org/img/zenn/gw31415/articles?style=plastic" />
+  </a>
   <a href="http://qiita.com/gw31415">
     <img height="20" src="https://qiita-badge.apiapi.app/s/gw31415/posts.svg" />
   </a>
   <a href="http://qiita.com/gw31415">
     <img height="20" src="https://qiita-badge.apiapi.app/s/gw31415/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/gw31415">
-    <img height="20" src="https://badgen.org/img/zenn/gw31415/articles?style=plastic" />
   </a>
 </p>
 
